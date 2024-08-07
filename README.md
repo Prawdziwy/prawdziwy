@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hello! I'm Damian 👋
 
-<!--
-**Prawdziwy/prawdziwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated PHP developer with a strong background in creating efficient and scalable web applications. Since 2015, I've been working with a variety of technologies to deliver effective solutions and drive innovation.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Languages & Frameworks**:
+- **PHP**: Laravel, Symfony, Yii2
+- **JavaScript**: Including Node.js
+- **HTML & CSS**
+- **Lua**
+
+🔹 **Databases**:
+- **MySQL**
+- **PostgreSQL**
+
+## Tools & Technologies
+
+🔧 **Operating Systems**:
+- **Windows**
+- **Linux**: Debian, Ubuntu
+
+🔧 **Web Servers**:
+- **Nginx**
+- **Apache**
+
+🔧 **Development Tools**:
+- **Docker**
+- **PHPStorm**
+- **Visual Studio**
+- **VSCode**
+
+🔧 **Version Control**:
+- **GitHub**
+- **SVN**
+
+## Projects
+
+### Event Handler
+- **Description**: A platform designed for planning events, enabling users to manage and organize their events efficiently.
+- **Stack**: Laravel, MySQL, PHP, Node.js, Bootstrap, Vite
+- **Link**: [Event Handler](https://github.com/Prawdziwy/event_handler)
+
+## Get in Touch
+
+Feel free to connect with me if you have any questions, need advice, or are interested in collaborating on a project!
+
+📧 **Email**: [prawdziwyek.damian@gmail.com](mailto:prawdziwyek.damian@gmail.com)  
+<!-- 🌐 **Website**: [prawdziwy.dev](https://prawdziwy.dev) -->
