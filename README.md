@@ -26,9 +26,9 @@ I'm a dedicated PHP developer with a strong background in creating efficient and
 
 🔧 **Development Tools**:
 - **Docker**
-- **PHPStorm**
+- **PhpStorm**
 - **Visual Studio**
-- **VSCode**
+- **Visual Studio Code**
 
 🔧 **Version Control**:
 - **GitHub**
